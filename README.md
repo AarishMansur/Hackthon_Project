@@ -1,6 +1,7 @@
 # NeuroCard
 An AI-powered web app that transforms long chapters into visual flashcards.
 ## Demo Link
+
 [Live Demo Link](link)
 ---
 
@@ -26,10 +27,9 @@ We built an AI system that:
 
    ---
    # Tech stack
-   **Frontend** : HTML,CSS,Javascript
-   ---
-   **Backend** : Java,Python
-   **Libraries** : Tailwind,Django,Flowbite
+   **Frontend** : HTML,CSS,Javascript  
+   **Backend** : Java,Python  
+   **Libraries** : Tailwind,Django,Flowbite  
 
 
 

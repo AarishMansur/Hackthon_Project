@@ -28,6 +28,7 @@ We built an AI system that:
    ---
    # Tech stack
    **Frontend** : HTML,CSS,Javascript
+   ---
    **Backend** : Java,Python
    **Libraries** : Tailwind,Django,Flowbite
 

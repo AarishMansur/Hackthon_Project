@@ -1,6 +1,5 @@
 # NeuroCard
 An AI-powered web app that transforms long chapters into visual flashcards.
----
 ## Demo Link
 [Live Demo Link](link)
 ---
